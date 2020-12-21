@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gRPC Demo</string>
+
+    <string-array name="binary_operation">
+        <item>+</item>
+        <item>–</item>
+    </string-array>
+
+</resources>
